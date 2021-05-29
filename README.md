@@ -1,4 +1,4 @@
 # Demo
 
 
-Some description for github intro video
+Some description for github intro video tutorial
